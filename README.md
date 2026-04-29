@@ -30,4 +30,4 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
 
     Passionate about translating complex datasets into simple, growth-oriented stories.
 
-📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]Let's Connect: 
+📫 [!LinkedIn (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]Let's Connect: 
