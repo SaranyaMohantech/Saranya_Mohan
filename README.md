@@ -1,4 +1,4 @@
-Hi, I'm Saranya Mohan <img width="50" height="50" alt="68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" src="https://github.com/user-attachments/assets/e6f5f51d-7a5d-4525-b577-5f7e0d3d8b33" />
+                                            Hi, I'm Saranya Mohan <img width="50" height="50" alt="68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" src="https://github.com/user-attachments/assets/e6f5f51d-7a5d-4525-b577-5f7e0d3d8b33" />
 
 
 Data Analyst | Ex-Senior Systems Engineer (Infosys) | Digital Strategist
