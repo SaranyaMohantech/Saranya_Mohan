@@ -22,7 +22,7 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
 
     Domain Knowledge: E-commerce Analytics, YouTube Growth Strategy, Production Support.
 
-📈 Beyond the Code
+📈 Beyond the Code [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_CHANNEL_URL_HERE)
 
     Scaled a digital community to 258,000+ followers.
 
@@ -30,4 +30,4 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
 
     Passionate about translating complex datasets into simple, growth-oriented stories.
 
-📫 Let's Connect: 
+📫 Let's Connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
