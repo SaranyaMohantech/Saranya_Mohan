@@ -24,10 +24,12 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
 
 📈 Beyond the Code 
 
-    [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kaaramkaalaikaapi)Scaled a digital community to 258,000+ followers.
 
-    [![Amazon](https://img.shields.io/badge/Amazon_Store-FF9900?style=for-the-badge&logo=amazon&logoColor=white)]Managed multi-channel e-commerce operations across Amazon, Flipkart, and Meesho.
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([YOUR_YOUTUBE_CHANNEL_URL_HERE](https://www.youtube.com/@kaaramkaalaikaapi))
+    Scaled a digital community to 258,000+ followers.
+
+    [![Amazon](https://img.shields.io/badge/Amazon_Store-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](YOUR_AMAZON_STORE_URL_HERE)Managed multi-channel e-commerce operations across Amazon, Flipkart, and Meesho.
 
     Passionate about translating complex datasets into simple, growth-oriented stories.
 
-📫 [!LinkedIn (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]Let's Connect: 
+📫 [![LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]Let's Connect: 
