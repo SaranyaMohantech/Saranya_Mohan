@@ -1,7 +1,21 @@
-Hi, I'm Saranya Mohan <img width="50" height="50" alt="68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" src="https://github.com/user-attachments/assets/e6f5f51d-7a5d-4525-b577-5f7e0d3d8b33" />
+<div align="center">
 
+# Hi, guys! <img width="50" height="50" alt="68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" src="https://github.com/user-attachments/assets/e6f5f51d-7a5d-4525-b577-5f7e0d3d8b33" />
 
-Data Analyst | Ex-Senior Systems Engineer (Infosys) | Digital Strategist
+### Welcome to my page!
+
+## I'm Saranya Mohan
+*Data Analyst | Ex-Senior Systems Engineer (Infosys) | Digital Strategist*
+
+---
+
+### 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kaaramkaalaikaapi))
+[![Amazon](https://img.shields.io/badge/Amazon_Store-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](YOUR_AMAZON_URL)
+
+</div>
 
 I am a data-driven professional with 6.7 years of experience in enterprise systems and 5.5 years of entrepreneurial experience scaling digital brands. I am currently focusing on bridging the gap between backend data infrastructure and actionable business insights.
 🚀 What I’m Working On
