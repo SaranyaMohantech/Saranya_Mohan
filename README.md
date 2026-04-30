@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kaaramkaalaikaapi))
-[![Amazon](https://img.shields.io/badge/Amazon_Store-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](YOUR_AMAZON_URL)
+[![Amazon](https://img.shields.io/badge/Amazon_Store-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.in/stores/AgalJewellers/page/6C6F0B1B-1C1C-4EA8-92FE-E98DB77B5DBC?ref_=cm_sw_r_cp_ud_sf_stores_VGYAN78DCBX1C85PQBEJ)
 
 </div>
 
