@@ -36,15 +36,16 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
 
     Domain Knowledge: E-commerce Analytics, YouTube Growth Strategy, Production Support.
 
-📈 Beyond the Code 
+## 📫 How to reach me:
 
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([YOUR_YOUTUBE_CHANNEL_URL_HERE](https://www.youtube.com/@kaaramkaalaikaapi))
-    Scaled a digital community to 258,000+ followers.
-
-[![Amazon](https://img.shields.io/badge/Amazon_Store-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](YOUR_AMAZON_STORE_URL_HERE)
-    Managed multi-channel e-commerce operations across Amazon, Flipkart, and Meesho.
-
-    Passionate about translating complex datasets into simple, growth-oriented stories.
-
-📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)Let's Connect: 
+<p align="left">
+  <a href="mailto:saranyamohantech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saranya-mohan-295795344?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@kaaramkaalaikaapi">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
