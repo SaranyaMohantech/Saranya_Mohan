@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, guys! <img width="50" height="50" alt="hi-gif" src="https://github.com/user-attachments/assets/e6f5f51d-7a5d-4525-b577-5f7e0d3d8b33" />
-
-### Welcome to my page!
+### Welcome to my page! <img width="50" height="50" alt="hi-gif" src="https://github.com/user-attachments/assets/e6f5f51d-7a5d-4525-b577-5f7e0d3d8b33" />
 
 ## I'm Saranya Mohan
 *Data Analyst | Ex-Senior Systems Engineer (Infosys) | Digital Strategist*
