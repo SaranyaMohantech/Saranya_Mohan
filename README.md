@@ -72,15 +72,12 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://leetcode.com/u/saranyaaws/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.hackerrank.com/profile/saranyamohantech">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saranyaaws/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saranyamohantech)
 
 * 📍 **Location:** Bengaluru, India  
 * 💼 **LinkedIn Profile:** [Saranya Mohan](https://www.linkedin.com/in/saranya-mohan-295795344?utm_source=share_via&utm_content=profile&utm_medium=member_android)
