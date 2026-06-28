@@ -3,7 +3,7 @@
 ### Welcome to my page! <img width="50" height="50" alt="hi-gif" src="https://github.com/user-attachments/assets/e6f5f51d-7a5d-4525-b577-5f7e0d3d8b33" />
 
 ## I'm Saranya Mohan
-*Data Analyst | Ex-Senior Systems Engineer (Infosys) | Digital Strategist*
+*Data Analyst | SQL | Power BI | Python | Snowflake | Ex-Infosys Senior Systems Engineer*
 
 ---
 
@@ -15,12 +15,19 @@
 
 </div>
 
-I am a data-driven professional with 6.7 years of experience in enterprise systems and 5.5 years of entrepreneurial experience scaling digital brands. I am currently focusing on bridging the gap between backend data infrastructure and actionable business insights.
+I am a data-driven professional with 6.7 years of experience in enterprise systems and 6.5 years of entrepreneurial experience scaling digital brands. I am currently focusing on bridging the gap between backend data infrastructure and actionable business insights.
 
 ### 🚀 What I’m Working On
 * **Data Analytics:** Mastering SQL, Power BI, and Python for business intelligence.
 * **Cloud Foundations:** Exploring Snowflake and AWS S3 for modern data warehousing.
 * **Business Growth:** Applying analytical models to real-world e-commerce and content data.
+
+### 🏆 Highlights
+* 6.8 Years at Infosys as Senior Systems Engineer
+* Built YouTube channel to 250K+ Subscribers
+* Successfully operated E-commerce business across Amazon, Flipkart and Meesho
+* HackerRank SQL (Intermediate) Certified
+* Transitioning into Data Analytics and Business Intelligence
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** SQL (MySQL), Python (Pandas, NumPy)
@@ -65,6 +72,9 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saranyaaws/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/saranyamohantech)
 
 * 📍 **Location:** Bengaluru, India  
 * 💼 **LinkedIn Profile:** [Saranya Mohan](https://www.linkedin.com/in/saranya-mohan-295795344?utm_source=share_via&utm_content=profile&utm_medium=member_android)
