@@ -44,7 +44,6 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
 **Business Problem:**
 250K+ subscriber channel had inconsistent viewership 
 with no data-driven publishing strategy.
-
 **What I Built:**
 - Automated ETL pipeline ingesting lifetime channel 
   performance metrics using Python Pandas
@@ -52,13 +51,11 @@ with no data-driven publishing strategy.
   and clean analytical SQL queries
 - 3-page Power BI executive dashboard connected 
   natively to Snowflake
-
 **Impact:**
 - Discovered 'Golden Window' publishing times using 
   viewer retention heatmaps
 - Optimised content schedule → consistent viewer growth
 - Reduced manual reporting time from hours to minutes
-
 **Tech:** Python (Pandas) | Snowflake SQL | Power BI
 
 #### 🛒 E-Commerce Data Reconciliation Model
@@ -69,18 +66,15 @@ Ran multi-platform retail operations across Amazon,
 Flipkart and Meesho with manual fee tracking across
 11,500+ transactions. Building this project to
 demonstrate the analytical work I did operationally.
-
 **What I Am Building:**
 - Transaction reconciliation model from real 
   operational data
 - SKU-level profit margin analysis
 - Platform fee optimisation dashboard
-
 **Data I Have From Real Operations:**
 - 11,500+ Amazon transaction rows
 - Multi-platform payout data
 - SKU inventory and margin records
-
 **Tech:** SQL | Excel Power Query | Data Visualization
 
 *🔄 In Progress — follow my LinkedIn for updates*
