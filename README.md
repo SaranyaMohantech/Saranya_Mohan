@@ -39,7 +39,7 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
 
 ### 🚀 Key Projects
 
-#### 📊 YouTube Growth Analytics Engine
+1. **📊 YouTube Growth Analytics Engine**
 
 **Business Problem:**
 250K+ subscriber channel had inconsistent viewership 
@@ -61,8 +61,7 @@ with no data-driven publishing strategy.
   
 **Tech:** Python (Pandas) | Snowflake SQL | Power BI
 
-#### 🛒 E-Commerce Data Reconciliation Model
-*(Currently building — estimated completion 2 weeks)*
+2. **🛒 E-Commerce Data Reconciliation Model**- *(Currently building — estimated completion 2 weeks)*
 
 **Business Problem:**
 Ran multi-platform retail operations across Amazon,
