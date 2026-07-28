@@ -39,16 +39,51 @@ I am a data-driven professional with 6.7 years of experience in enterprise syste
 
 ### 🚀 Key Projects
 
-#### 📊 [YouTube Growth Analysis Portfolio](https://github.com/SaranyaMohantech/YouTube-Growth-Analytics-Pipeline)
-* Analyzed lifetime performance metrics of personal channel data to identify growth drivers for a **250k+ subscriber** base.
-* Architected a secure cloud data warehouse layer in Snowflake, writing analytical SQL queries to optimize data structures and identify high-converting engagement metrics.
-* Designed a 3-page Power BI executive dashboard integrated with the cloud warehouse to map content performance quadrants, identifying optimal publication windows to maximize audience retention.
-* **Tech:** Python (Pandas), Snowflake (SQL), Power BI 
+#### 📊 YouTube Growth Analytics Engine
 
-#### 🛒 [E-commerce Sales Intelligence](https://github.com/SaranyaMohantech) *(In Progress)*
-* Consolidating sales data from **Amazon, Flipkart, and Meesho** to track profit margins across hundreds of SKUs.
-* Developing a trend-forecasting model to optimize inventory during seasonal peaks.
-* **Tech:** Excel Power Query, SQL, Snowflake
+**Business Problem:**
+250K+ subscriber channel had inconsistent viewership 
+with no data-driven publishing strategy.
+
+**What I Built:**
+- Automated ETL pipeline ingesting lifetime channel 
+  performance metrics using Python Pandas
+- Snowflake cloud data warehouse with staged datasets 
+  and clean analytical SQL queries
+- 3-page Power BI executive dashboard connected 
+  natively to Snowflake
+
+**Impact:**
+- Discovered 'Golden Window' publishing times using 
+  viewer retention heatmaps
+- Optimised content schedule → consistent viewer growth
+- Reduced manual reporting time from hours to minutes
+
+**Tech:** Python (Pandas) | Snowflake SQL | Power BI
+
+#### 🛒 E-Commerce Data Reconciliation Model
+*(Currently building — estimated completion 2 weeks)*
+
+**Business Problem:**
+Ran multi-platform retail operations across Amazon,
+Flipkart and Meesho with manual fee tracking across
+11,500+ transactions. Building this project to
+demonstrate the analytical work I did operationally.
+
+**What I Am Building:**
+- Transaction reconciliation model from real 
+  operational data
+- SKU-level profit margin analysis
+- Platform fee optimisation dashboard
+
+**Data I Have From Real Operations:**
+- 11,500+ Amazon transaction rows
+- Multi-platform payout data
+- SKU inventory and margin records
+
+**Tech:** SQL | Excel Power Query | Data Visualization
+
+*🔄 In Progress — follow my LinkedIn for updates*
 
 ---
 
